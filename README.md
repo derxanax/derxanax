@@ -1,4 +1,4 @@
-# 🚀 Привет, я Dexter | mirosNOB
+# 🚀 Привет, я Dexter 
 
 > 14 y.o разраб на TypeScript, Rust, JavaScript и Python
 
