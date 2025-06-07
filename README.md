@@ -22,9 +22,9 @@ Python бот (когда доделаю - будет вообще огонь) �
 
 ## 📊 GitHub Статистика
 
-![Статистика](https://github-readme-stats.vercel.app/api?username=mirosNOB&show_icons=true&theme=radical)
+![Статистика](https://github-readme-stats.vercel.app/api?username=derxanax&show_icons=true&theme=radical)
 
-![Топ языки](https://github-readme-stats.vercel.app/api/top-langs/?username=mirosNOB&layout=compact&theme=radical)
+![Топ языки](https://github-readme-stats.vercel.app/api/top-langs/?username=derxanax&layout=compact&theme=radical)
 
 ## 📱 Как связаться
 
