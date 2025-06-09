@@ -27,5 +27,5 @@
 
 ## 📱 Как связаться
 
-- 💬 Telegram: [@Derxkiwi](https://t.me/Derxkiwi)
+- 💬 Telegram: [@amylytz](https://t.me/amylytz)
 - 🌐 Сайт: derx.space
