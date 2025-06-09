@@ -1,4 +1,4 @@
-# 🚀 Привет, я Dexter 
+# 🚀 Привет, я Dexter / amylytz
 
 > 14 y.o разраб на TypeScript, Rust, JavaScript и Python
 
@@ -28,4 +28,4 @@
 ## 📱 Как связаться
 
 - 💬 Telegram: [@amylytz](https://t.me/amylytz)
-- 🌐 Сайт: derx.space
+
