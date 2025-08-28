@@ -6,15 +6,6 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-## 🔥 Проекты
-
-
-
-### CursorBypass
-ну типа взлом курсор иде на ts писал сам идет под fedora ну и и тд linux системы хотя сам cursor не юзаю думаю будет полезно 
-
-### CrackLang
-типо язык программирования но делал его чисто для друга который в программировании 0 а что-то делать хочется, проект не серьёзный 
 
 ## 📊 GitHub Статистика
 
@@ -24,5 +15,5 @@
 
 ## 📱 Как связаться
 
-- 💬 Telegram: [@amylytz](https://t.me/amylytz)
+- 💬 Telegram: [@derxS4C](https://t.me/derxS4C)
 
