@@ -1,5 +1,6 @@
-![Аватар Derx](https://raw.githubusercontent.com/derxanax/derxanax.github.io/refs/heads/main/avatar.png)# 🚀 Привет, я Derx / Derxanax
+![Аватар Derx](https://raw.githubusercontent.com/derxanax/derxanax.github.io/refs/heads/main/avatar.png)
 
+# 🚀 Привет, я Derx / Derxanax
 
 __14 y.o__
 ## 💻 Мой стек
