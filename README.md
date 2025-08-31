@@ -1,4 +1,6 @@
-# 🚀 Привет, я Dexter / amylytz
+![Аватар Derx](https://raw.githubusercontent.com/derxanax/derxanax.github.io/refs/heads/main/avatar.png)# 🚀 Привет, я Derx / Derxanax
+
+
 __14 y.o__
 ## 💻 Мой стек
 
@@ -15,6 +17,6 @@ __14 y.o__
 ![Топ языки](https://github-readme-stats.vercel.app/api/top-langs/?username=derxanax&layout=compact&theme=radical)
 
 ## 📱 Как связаться
-
 - 💬 Telegram: [@derxS4C](https://t.me/derxS4C)
+- 📧 Email: derx@tuta.io
 
