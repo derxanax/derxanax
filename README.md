@@ -15,6 +15,8 @@ __14 y.o__
 
 ![Статистика](https://github-readme-stats.vercel.app/api?username=derxanax&show_icons=true&theme=radical)
 
+---
+
 ![Топ языки](https://github-readme-stats.vercel.app/api/top-langs/?username=derxanax&layout=compact&theme=radical)
 
 ## 📱 Как связаться
